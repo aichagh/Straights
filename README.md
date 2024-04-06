@@ -1,0 +1,2 @@
+# Straights
+Straights Card Game
